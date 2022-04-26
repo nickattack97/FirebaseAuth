@@ -1,3 +1,3 @@
 # FirebaseAuth
 
-Authentication using Firebase.
+React Native Authentication using Firebase.
